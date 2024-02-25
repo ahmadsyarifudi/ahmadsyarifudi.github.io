@@ -4,7 +4,7 @@
     - name: Full Name
       value: Ahmad Syarifudin
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13 Juli 2000
     - name: Languages
       value: English, Indonesia
 
@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: S.Si
-      institution: University of Zurich, Zurich, Switzerland
+      institution: University of Indonesi, Depok, Indonesia
       year: 1905
       description:
         - Description 1.
