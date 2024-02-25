@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Ahmad Syarifudin",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "didinahsya@gmail.com",
+    "phone": "(+62)895604458604",
+    "url": "https://ahmadsyarifudi.github.io",
+    "summary": " ",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -16,21 +16,28 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Ahmad Syarifudin",
+        "url": "https://www.linkedin.com/in/ahmad-syarifudin-33709a1a0/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Automatic Robotic Research Group, University of Indonesia",
+      "position": "Robotic Researcher",
+      "startDate": "2023-02",
+      "endDate": "2023-12",
+      "summary": "Worked on a robotics project to create a quadcopter system that can avoid obstacles and detect human body parts autonomously",
+      "highlights": ["ROS, Python, Artificial Intellegence, Path Planning, Physics"]    
+    },
+    {
+      "name": "PT Kalbe Farma,Tbk, Cikarang Selatan, Jawa Barat, Indonesia",
+      "position": "Industrial Internet of Things Engineer",
+      "startDate": "2022-08",
+      "endDate": "2022-12",
+      "summary": " Worked on IIoT project in PT Kalbe Farma to implement Smart Factory System and IIoT Development",
+      "highlights": ["PLC, HMI, Network, Data Aq, Physics"]
     }
   ],
   "volunteer": [
