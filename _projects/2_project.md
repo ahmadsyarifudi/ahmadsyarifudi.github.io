@@ -10,7 +10,7 @@ giscus_comments: false
 
 <h2 class="year" >2022</h2>
 <!-- <br> -->
-<b>Akses I/O dan Software Delay</b><br>
+<b>Akses I/O dan <i>Software Delay</i></b><br>
 Ahmad Syarifudin, Computer Laboratory, Department of Physics, University of Indonesia<br>
 [pdf](https://drive.google.com/file/d/1r45u6QF_gE9OOH5E5AEjIYQkQ00u2ThB/view?usp=drive_link)&nbsp;|&nbsp;[code](https://drive.google.com/file/d/13FlGOuaovC1o_cEHh-5jhuMPEs4IqklL/view?usp=drive_link)&nbsp;|&nbsp;[video](https://youtu.be/QnyNHhiw1I0)
 <p style="font-size: 3px !important"></p>
@@ -37,4 +37,11 @@ Ahmad Syarifudin, Computer Laboratory, Department of Physics, University of Indo
 <b>Serial Peripheral Interface (SPI)</b><br>
 Ahmad Syarifudin, Computer Laboratory, Department of Physics, University of Indonesia<br>
 [pdf](https://drive.google.com/file/d/1BdWosFc3oVJu3z6IdH8ZSb7LJfm5ym40/view?usp=drive_link)&nbsp;|&nbsp;[code](https://drive.google.com/file/d/1VOSEt3-yfNKCXZdktbtl5ky4BgnsFfxm/view?usp=drive_link)&nbsp;|&nbsp;[video](https://youtu.be/YC9-AzUaTlg)
+<p style="font-size: 3px !important"></p>
+
+## Final project
+<b>Smart Irrigation Berbasis Sensor Berat Load Cell HX711
+dan Soil Moisture</b><br>
+Ahmad Syarifudin, Computer Laboratory, Department of Physics, University of Indonesia<br>
+[pdf](https://drive.google.com/drive/u/3/folders/1M72sCtB-AtRxNxQgG-37faDpncxUPeCv)
 <p style="font-size: 3px !important"></p>
