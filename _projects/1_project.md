@@ -2,7 +2,7 @@
 layout: page
 title: The Work of a Process
 description: Designing a System Program for AVR Microcontrollers That Can Used to Regulate The  Work of a Process Unit
-img: assets/img/12.jpg
+img: assets/img/project/project1/2.jpg
 importance: 1
 category: work
 related_publications: true
