@@ -8,7 +8,7 @@ category: work
 giscus_comments: false
 ---
 
-<h2 class="year" >2022</h2>
+<h2 class="Title" >Modules</h2>
 <!-- <br> -->
 <b>Akses I/O dan <i>Software Delay</i></b><br>
 Ahmad Syarifudin, Computer Laboratory, Department of Physics, University of Indonesia<br>
