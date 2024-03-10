@@ -3,7 +3,7 @@ layout: page
 title: Embedded system
 description: all the modules I took in the embedded systems
 img: assets/img/project/project2/1.jpg
-importance: 2
+importance: 3
 category: work
 giscus_comments: false
 ---
