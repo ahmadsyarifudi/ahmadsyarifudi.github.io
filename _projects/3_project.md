@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Embedded system
-description: all the modules I took in the embedded systems
+title: IioT
+description: all projects as an industrial internet of things engineer
 img: assets/img/project/project2/1.jpg
 importance: 3
 category: work
