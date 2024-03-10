@@ -15,12 +15,12 @@ Secara IoT</b><br>
 Ahmad Syarifudin, Industrial Internet of Things Engineer<br>
 [pdf](https://drive.google.com/file/d/1cMyV6pORJvsvpcfIifYdVEVToYrSouqd/view?usp=drive_link)
 <p style="font-size: 3px !important"></p>
-<b>External Interrupt, Display 7-Segment,dan Hardware Timer dalam Bahasa Assembly</b><br>Ahmad Syarifudin, Computer Laboratory, Department of Physics, University of Indonesia<br>
-[pdf](https://drive.google.com/file/d/15vovVRrRuLF5xiko-hOPVm-GLTdAWnDA/view?usp=drive_link)&nbsp;|&nbsp;[code](https://drive.google.com/file/d/1ESUQ1dKIfcVcAGmlZktS-wAHlKvvDz_T/view?usp=drive_link)&nbsp;|&nbsp;[video](https://youtu.be/yZEAphZZyyE)
+<b>Task 2: Basic Networking, Pembuatan Adress dan Routing Subnet</b><br>Ahmad Syarifudin, Internet of Things Engineer<br>
+[pdf](https://drive.google.com/file/d1aPawShNntXb1MBV8EW5vHOorNJC40qlQ/view?usp=drive_link)
 <p style="font-size: 3px !important"></p>
-<b>External Interrupt, Display Alphanumeric LCD, dan Hardware Timer dalam Bahasa C</b><br>
-Ahmad Syarifudin, Computer Laboratory, Department of Physics, University of Indonesia<br>
-[pdf](https://drive.google.com/file/d/1UrTPodn9j_4MO1EMoCFWpPLWKHmS44_F/view?usp=drive_link)&nbsp;|&nbsp;[code](https://drive.google.com/file/d/1rMhxo4wZvX6bcDvXevXHvgJuMXdaZWo2/view?usp=drive_link)&nbsp;|&nbsp;[video](https://youtu.be/OOez8ERtZfw)
+<b>Task 3: Spesifikasi Data Router Mikrotik Line 3 Production Mezzanine</b><br>
+Ahmad Syarifudin, Internet of Things Engineer<br>
+[pdf](https://drive.google.com/file/d/1PWbwsx-pvvBaaKtrHmE0Lxjt7RS-FnjD/view?usp=drive_link)
 <p style="font-size: 3px !important"></p>
 <b>ADC Internal dan DAC Eksternal</b><br>
 Ahmad Syarifudin, Computer Laboratory, Department of Physics, University of Indonesia<br>
