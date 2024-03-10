@@ -1,16 +1,19 @@
 ---
 layout: page
-title: IioT
-description: all projects on industrial internet of things engineer
-img: assets/img/7.jpg
-importance: 3
+title: Embedded system
+description: all the modules I took in the embedded systems
+img: assets/img/project/project2/1.jpg
+importance: 2
 category: work
+giscus_comments: false
 ---
 
-<h2 class="Tugas" >Task</h2>
+<h2 class="Title" >Modules</h2>
 <!-- <br> -->
-<b>Task 1 : Menghubungkan PLC, PowerTag, dan Sensor ke Dashboard Pemantauan Secara IIoT</b><br>Ahmad Syarifudin, Internet of Things Engineer<br>[pdf](https://drive.google.com/file/d/1cMyV6pORJvsvpcfIifYdVEVToYrSouqd/view sp=drive_link)
-<p style="font-size: 3px !important"><p>
+<b>Akses I/O dan <i>Software Delay</i></b><br>
+Ahmad Syarifudin, Computer Laboratory, Department of Physics, University of Indonesia<br>
+[pdf](https://drive.google.com/file/d/1r45u6QF_gE9OOH5E5AEjIYQkQ00u2ThB/view?usp=drive_link)&nbsp;|&nbsp;[code](https://drive.google.com/file/d/13FlGOuaovC1o_cEHh-5jhuMPEs4IqklL/view?usp=drive_link)&nbsp;|&nbsp;[video](https://youtu.be/QnyNHhiw1I0)
+<p style="font-size: 3px !important"></p>
 <b>External Interrupt, Display 7-Segment,dan Hardware Timer dalam Bahasa Assembly</b><br>Ahmad Syarifudin, Computer Laboratory, Department of Physics, University of Indonesia<br>
 [pdf](https://drive.google.com/file/d/15vovVRrRuLF5xiko-hOPVm-GLTdAWnDA/view?usp=drive_link)&nbsp;|&nbsp;[code](https://drive.google.com/file/d/1ESUQ1dKIfcVcAGmlZktS-wAHlKvvDz_T/view?usp=drive_link)&nbsp;|&nbsp;[video](https://youtu.be/yZEAphZZyyE)
 <p style="font-size: 3px !important"></p>
@@ -42,4 +45,3 @@ dan Soil Moisture</b><br>
 Ahmad Syarifudin, Computer Laboratory, Department of Physics, University of Indonesia<br>
 [pdf](https://drive.google.com/drive/u/3/folders/1M72sCtB-AtRxNxQgG-37faDpncxUPeCv)
 <p style="font-size: 3px !important"></p>
-## Final project
