@@ -16,7 +16,7 @@ giscus_comments: false
 <p style="font-size: 3px !important"><p>
 <b>Task 4: Akuisisi Data Power Meter
 Schneider PM5560
-</b><br>Ahmad Syarifudin, Internet of Things Engineer<br>[pdf](https://drive.google.com/file/d/1zB0yuF1BSR3CvwQUG-BubCkDnJL-l7o_/view?usp=drive_link)
+</b><br>Ahmad Syarifudin, Internet of Things Engineer<br>[pdf](https://drive.google.com/file/d/1zB0yuF1BSR3CvwQUG-BubCkDnJL-l7o_/view?usp=drive_link)&nbsp;|&nbsp;
 <p style="font-size: 3px !important"><p>
 <b>Task 5: Akuisisi Data Timbangan Digital METTLER TOLEDO MS1602S
 </b><br>Ahmad Syarifudin, Internet of Things Engineer<br>[pdf](https://drive.google.com/file/d/1JuBAGHrBHbSDH5-GhhOHk4v3xbVR53tV/view?usp=drive_link)
