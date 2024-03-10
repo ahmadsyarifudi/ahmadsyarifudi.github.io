@@ -2,7 +2,7 @@
 layout: page
 title: IioT
 description: all my projects as an industrial internet of things engineer
-img: assets/img/project/project2/1.jpg
+img: assets/img/project/project3/IMG_20221103_090726.jpg
 importance: 3
 category: work
 giscus_comments: false
