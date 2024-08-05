@@ -43,5 +43,5 @@ Ahmad Syarifudin, Computer Laboratory, Department of Physics, University of Indo
 <b>Smart Irrigation Berbasis Sensor Berat Load Cell HX711
 dan Soil Moisture</b><br>
 Ahmad Syarifudin, Computer Laboratory, Department of Physics, University of Indonesia<br>
-[pdf](https://drive.google.com/drive/u/3/folders/1M72sCtB-AtRxNxQgG-37faDpncxUPeCv)
+[pdf](https://drive.google.com/file/d/1RRYTg6M9HnTnhMEsEpzGXr7ox26OnQnl/view?usp=sharing)
 <p style="font-size: 3px !important"></p>
