@@ -4,7 +4,7 @@ title: Embedded system
 description: all the modules I took in the embedded systems
 img: assets/img/project/project2/1.jpg
 importance: 2
-category: work
+category: college
 giscus_comments: false
 ---
 
