@@ -18,7 +18,7 @@ this project pdf [here](https://drive.google.com/file/d/10qAKELwr0HBtpwgwk3e-Bjs
     </div>
 </div>
 <div class="caption">
-    Desain rangkaian pada protheus
+    Circuit design on protheus
 </div>
 The START button must be pressed to initiate the process. Initially, solution 1 and solution 2 should be filled into the tank by opening valves INFLOW1 and INFLOW2 until the TANKFUL sensor = '1' (active), indicating that the solution level has reached the desired level. Subsequently, valves INFLOW1 and INFLOW2 are closed. After that, the Heater is turned on via HTRON and the Stirrer is activated through STIRON, both of which remain on until the desired solution temperature is achieved, indicated by the TEMPOK sensor = '0' (active). 
 

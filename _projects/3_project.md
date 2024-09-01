@@ -10,32 +10,30 @@ giscus_comments: false
 
 <h2 class="Title" >Modules</h2>
 <!-- <br> -->
-<b>Task 1: Menghubungkan PLC, PowerTag, dan Sensor ke Dashboard Pemantauan 
-Secara IoT</b><br>
+<b>Task 1: Connecting PLC, PowerTag, and Sensors to an IoT Monitoring Dashboard</b><br>
 Ahmad Syarifudin, Industrial Internet of Things Engineer<br>
 [pdf](https://drive.google.com/file/d/1cMyV6pORJvsvpcfIifYdVEVToYrSouqd/view?usp=drive_link)
 <p style="font-size: 3px !important"></p>
-<b>Task 2: Basic Networking, Pembuatan Adress dan Routing Subnet</b><br>Ahmad Syarifudin, Industrial Internet of Things Engineer<br>
-[pdf](https://drive.google.com/file/d1aPawShNntXb1MBV8EW5vHOorNJC40qlQ/view?usp=drive_link)
+<b>Task 2: Basic Networking, Address Creation, and Subnet Routing</b><br>Ahmad Syarifudin, Industrial Internet of Things Engineer<br>
+[pdf](https://drive.google.com/file/d/1aPawShNntXb1MBV8EW5vHOorNJC40qlQ/view?usp=drivesdk)
 <p style="font-size: 3px !important"></p>
-<b>Task 3: Spesifikasi Data Router Mikrotik Line 3 Production Mezzanine</b><br>
+<b>Task 3: Data Specifications for MikroTik Router Line 3 Production Mezzanine</b><br>
 Ahmad Syarifudin, Industrial Internet of Things Engineer<br>
 [pdf](https://drive.google.com/file/d/1PWbwsx-pvvBaaKtrHmE0Lxjt7RS-FnjD/view?usp=drive_link)
 <p style="font-size: 3px !important"></p>
-<b>Task 4: Akuisisi Data Power Meter
-Schneider PM5560</b><br>
+<b>Task 4: Data Acquisition for Schneider PM5560 Power Meter</b><br>
 Ahmad Syarifudin, Industrial Internet of Things Engineer<br>
 [pdf](https://drive.google.com/file/d/1zB0yuF1BSR3CvwQUG-BubCkDnJL-l7o_/view?usp=drive_link)
 <p style="font-size: 3px !important"></p>
-<b>Task 5: Akuisisi Data Timbangan Digital METTLER TOLEDO MS1602S</b><br>
+<b>Task 5: Data Acquisition for METTLER TOLEDO MS1602S Digital Scale</b><br>
 Ahmad Syarifudin, Industrial Internet of Things Engineer<br>
 [pdf](https://drive.google.com/file/d/1JuBAGHrBHbSDH5-GhhOHk4v3xbVR53tV/view?usp=drive_link)
 <p style="font-size: 3px !important"></p>
-<b>Task 6: NAT Mesin</b><br>
+<b>Task 6: Performing NAT on the machine</b><br>
 Ahmad Syarifudin, Industrial Internet of Things Engineer<br>
 [pdf](https://drive.google.com/file/d/1wBxIVC5tvwS-QUSJtFd_bTSM53BBcF2E/view?usp=drive_link)
 <p style="font-size: 3px !important"></p>
-<b>Task 7: Pelatihan alat instrumentasi dari <i>Siglent</i></b><br>
+<b>Task 7: Training on instrumentation tools from <i>Siglent</i></b><br>
 Ahmad Syarifudin, Industrial Internet of Things Engineer<br>
 [pdf](https://drive.google.com/file/d/1lVZsyjuwNGYUcMYYsaSbkSC4AI6AIveN/view?usp=drive_link)
 <p style="font-size: 3px !important"></p>
@@ -45,15 +43,15 @@ Ahmad Syarifudin, Industrial Internet of Things Engineer<br>
 <p style="font-size: 3px !important"></p>
 
 ## Monitor Command Control
-<b>MCC Bagian Instalasi dan Klastering Proxmox</b><br>
+<b>MCC Installation and Proxmox Clustering Section</b><br>
 Ahmad Syarifudin, Industrial Internet of Things Engineer<br>
 [pdf](https://drive.google.com/file/d/16BMwNr-XEabkM6aswQ9SwM_GloCGuvDD/view?usp=drive_link)
 <p style="font-size: 3px !important"></p>
-<b>MCC Bagian Network Interfaces Cards Proxmox</b><br>
+<b>MCC Network Interface Cards Proxmox Section</b><br>
 Ahmad Syarifudin, Industrial Internet of Things Engineer<br>
 [pdf](https://drive.google.com/file/d/1CjPRoG_7qV4k1UbeiAehjZiTq9syoqi9/view?usp=drive_link)
 <p style="font-size: 3px !important"></p>
-<b>Installing Gitlab to Server Dekk 7515</b><br>
+<b>Installing GitLab on Server Dell 7515</b><br>
 Ahmad Syarifudin, Industrial Internet of Things Engineer<br>
 [pdf](https://drive.google.com/file/d/1vpQ-dAjfHSnkPZAcdliPiq2qoLw3Ic5C/view?usp=drive_link)
 <p style="font-size: 3px !important"></p>
