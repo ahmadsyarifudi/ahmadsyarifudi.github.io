@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2019-09-01
+date: 2024-04-01
 inline: true
 related_posts: false
 ---
-Bergabung dengan Brigade UI
+Join Tanobel as IoT Developer yey
 
