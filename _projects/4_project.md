@@ -2,7 +2,7 @@
 layout: page
 title: Internet of Things Developer
 description: Several projects that I am handling
-img:
+img: assets/img/project/project3/arm robot.jpg
 importance: 3
 category: work
 ---
