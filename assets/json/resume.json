@@ -98,6 +98,26 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
+    },
+    {
+      "name": "Professional",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MATLAB", 
+        "Assembly", 
+        "Ladder", 
+        "Robotic Operating System(ROS)", 
+        "Node-Red", 
+        "Linux", 
+        "Docker", 
+        "Proxmox",
+        "PLC",
+        "HMI", 
+        "Mikrotik", 
+        "C", 
+        "Python, JavaScript, R, PostgreSQL, TimescaleDB, Thingsboard"
+      ]
     }
   ],
   "languages": [
