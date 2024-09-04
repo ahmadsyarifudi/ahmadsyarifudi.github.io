@@ -92,9 +92,15 @@
   ],
   "languages": [
     {
-      "language": "Indonesia",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Physics",
+      "keywords": [
+        "Quantum Mechanics",
+        "Quantum Computing",
+        "Quantum Information",
+        "Quantum Cryptography",
+        "Quantum Communication",
+        "Quantum Teleportation"
+      ]
     },
     {
       "language": "English",
