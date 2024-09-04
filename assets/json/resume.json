@@ -87,12 +87,9 @@
   ],
   "skills": [
     {
-      "profesional":["MATLAB, Assembly, Ladder, Robotic Operating System(ROS),Node-Red, Linux, PLC, Mikrotik, C, Python, JavaScript, R, SQL, HTML+CSS, Django, Pandas "]
-    }
-  ],
-  "languages": [
-    {
       "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Quantum Mechanics",
         "Quantum Computing",
@@ -101,6 +98,13 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Indonesia",
+      "fluency": "Native speaker",
+      "icon": ""
     },
     {
       "language": "English",
