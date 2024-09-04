@@ -87,7 +87,7 @@
   ],
   "skills": [
     {
-      "profesional":"MATLAB, Assembly, Ladder, Robotic Operating System(ROS),Node-Red, Linux, PLC, Mikrotik, C, Python, JavaScript, R, SQL, HTML+CSS, Django, Pandas "
+      "profesional":["MATLAB, Assembly, Ladder, Robotic Operating System(ROS),Node-Red, Linux, PLC, Mikrotik, C, Python, JavaScript, R, SQL, HTML+CSS, Django, Pandas "]
     }
   ],
   "languages": [
